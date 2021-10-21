@@ -148,6 +148,3 @@ msgid "key_trans_plural_B"
 msgid_plural "key_trans_plural_B_plural"
 msgstr[0] "value trans sing B"
 msgstr[1] "value trans plural B"
-
-msgid "cfg.default.test_three.root"
-msgstr "fr"
