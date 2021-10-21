@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"PO-Revision-Date: 2021-10-21 12:37+0000\n"
+"PO-Revision-Date: 2021-10-21 12:43+0000\n"
 "Last-Translator: Weblate Admin <admin@email.com>\n"
 "Language-Team: Français(France) <http://weblate.local/projects/2cloud/"
 "default/fr-FR/>\n"
