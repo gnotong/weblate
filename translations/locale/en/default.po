@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"PO-Revision-Date: 2021-11-04 15:24+0000\n"
+"PO-Revision-Date: 2021-11-13 17:14+0000\n"
 "Last-Translator: Weblate Admin <admin@email.com>\n"
 "Language-Team: English <http://weblate.local/projects/2cloud/default/en/>\n"
 "Language: en\n"
@@ -136,3 +136,6 @@ msgstr "ennnn"
 
 msgid "cfg.accm.upgrade_category.root"
 msgstr "updates"
+
+msgid "cfg.tsco972.customer_country.root"
+msgstr "Martinica"
